@@ -1,5 +1,5 @@
 import openai
-
+#code 
 openai.api_key = "YOUR_API_KEY"
 
 def ai_plan():
